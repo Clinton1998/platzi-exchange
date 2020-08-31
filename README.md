@@ -1,5 +1,7 @@
 # platzi-exchange
 
+## Websiste
+https://platzi-exchange.clintontapia.com/
 ## Project setup
 ```
 yarn install
